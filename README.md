@@ -60,4 +60,4 @@ This analysis helps marketing teams:
 
 ## 📝 License
 
-[MIT License][https://opensource.org/license/mit].
+MIT License- https://opensource.org/license/mit
